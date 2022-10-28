@@ -1,4 +1,4 @@
-# Employee Retention Project
+# Employee Retention Project Dashboard
 Here is my 1st project which shows the details about Employee Retention releted to HR Domain.
 The data used in this project includes 2 excel files with 50k plus records each 
      
