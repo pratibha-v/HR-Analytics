@@ -7,7 +7,7 @@ Tools used-  EXCEL for data cleaning, MYSQL for analyzing data and TABLEAU for v
 Tableau Public Dashboard- [Link](https://public.tableau.com/app/profile/pratibha.verma/viz/HRanalyticsdashboard_16545822644250/MainDashboard) 
 #### TABLEAU DASHBOARD - 
 
-I have drawn 6 KPI to understand the reason behind attrition and to tackle it.
+I have worked with a team and drawn 6 KPI to understand the reason behind attrition and to tackle it.
 and got some insights regarding attrition of employees with respect to department, monthly income, work life balance, years of promotion etc.
 
 1 Average Attrition rate for all Departments    
