@@ -4,7 +4,7 @@ The data used in this project includes 2 excel files with 50k plus records each
      
 Tools used-  EXCEL for data cleaning, MYSQL for analyzing data and TABLEAU for visualization in this project.
 
-Tableau Public Dashboard- [Link](https://public.tableau.com/app/profile/pratibha.verma/viz/HRanalyticsdashboard_16545822644250/MainDashboard) 
+#### Live Dashboard- [Tableau Public Link](https://public.tableau.com/app/profile/pratibha.verma/viz/HRanalyticsdashboard_16545822644250/MainDashboard) 
 #### TABLEAU DASHBOARD - 
 
 I have worked with a team and drawn 6 KPI to understand the reason behind attrition and to tackle it.
